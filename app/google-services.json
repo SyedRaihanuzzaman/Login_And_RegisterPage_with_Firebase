@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286085633798",
+    "project_id": "loginandregistration-d4e8c",
+    "storage_bucket": "loginandregistration-d4e8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286085633798:android:804b1f53e720d927717087",
+        "android_client_info": {
+          "package_name": "com.raihan.loginandregistrationwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnMBlC1dXIIsCwwz2QYjcioTkj7W-Sz7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
